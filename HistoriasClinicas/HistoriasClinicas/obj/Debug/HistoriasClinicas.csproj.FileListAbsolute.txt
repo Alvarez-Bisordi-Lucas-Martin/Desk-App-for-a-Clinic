@@ -1,0 +1,57 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\HistoriasClinicas.exe.config
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\HistoriasClinicas.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\HistoriasClinicas.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.Form1.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.Properties.Resources.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormEstudios.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormHistorial.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormMedicacion.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormPaciente.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormInformes.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormOSocial.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\itextsharp.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\itextsharp.xml
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormConsultas.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormEliminar.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormModificar.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormInicio.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormCrearCuenta.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormError.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormRealizado.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\HistoriasClinicas.exe.config
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\HistoriasClinicas.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\HistoriasClinicas.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\itextsharp.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\bin\Debug\itextsharp.xml
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.Form1.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormConsultas.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormCrearCuenta.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormEliminar.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormError.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormEstudios.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormHistorial.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormInformes.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormInicio.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormMedicacion.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormModificar.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormOSocial.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormPaciente.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.FormRealizado.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.Properties.Resources.resources
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.GenerateResource.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.csproj.CopyComplete
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\1er Cuatrimestre\Lab 3\Ejercicios Practicos\HistoriasClinicas\HistoriasClinicas\obj\Debug\HistoriasClinicas.pdb
